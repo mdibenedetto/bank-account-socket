@@ -1,4 +1,4 @@
-# bank-account-socket
+# Bank account Client/Server application
 
 This repo contains a client / server application which implements socket communication.
 
