@@ -22,3 +22,19 @@ The server computes monthly payment and total payment,
 and sends them back to the client.
 
 ![alt](./docs/app-preview-client.png)
+
+# Big O notation - Computational complexity
+
+## Big O notation - Client
+
+Every line of the Client has at most O(1) complexity.
+So the worst case is O(1)
+
+![alt](./docs/client_big_o.png)
+
+## Big O notation - Server
+
+As happen for the Client, Every line of the Server has at most O(1) complexity.
+so the worst case is O(1)
+
+![alt](./docs/server_big_o.png)
